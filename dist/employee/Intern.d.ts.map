@@ -1,1 +1,0 @@
-{"version":3,"file":"Intern.d.ts","sourceRoot":"","sources":["../../src/employee/Intern.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,eAAe,CAAC;AAEzC,qBAAa,MAAO,SAAQ,QAAQ;IAClC,OAAO,CAAC,SAAS,CAAS;gBAEd,EAAE,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,EAAE,SAAS,EAAE,MAAM;IAKvD,eAAe,IAAI,MAAM;IAIzB,OAAO,IAAI,MAAM;CAGlB"}

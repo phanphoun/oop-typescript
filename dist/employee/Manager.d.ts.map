@@ -1,1 +1,0 @@
-{"version":3,"file":"Manager.d.ts","sourceRoot":"","sources":["../../src/employee/Manager.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,eAAe,CAAC;AAEzC,qBAAa,OAAQ,SAAQ,QAAQ;IACnC,OAAO,CAAC,KAAK,CAAS;gBAEV,EAAE,EAAE,MAAM,EAAE,IAAI,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM;IAKnE,eAAe,IAAI,MAAM;IAIzB,OAAO,IAAI,MAAM;CAGlB"}

@@ -1,1 +1,0 @@
-{"version":3,"file":"Payment.d.ts","sourceRoot":"","sources":["../../src/payment/Payment.ts"],"names":[],"mappings":"AAAA,8BAAsB,OAAO;IAC3B,SAAS,CAAC,MAAM,EAAE,MAAM,CAAC;gBAEb,MAAM,EAAE,MAAM;IAI1B,QAAQ,CAAC,QAAQ,IAAI,OAAO;IAC5B,QAAQ,CAAC,eAAe,IAAI,MAAM;IAElC,GAAG,IAAI,IAAI;CASZ"}
