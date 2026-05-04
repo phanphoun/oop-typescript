@@ -1,0 +1,1 @@
+{"version":3,"file":"CashPayment.d.ts","sourceRoot":"","sources":["../../src/payment/CashPayment.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAEvC,qBAAa,WAAY,SAAQ,OAAO;IACtC,OAAO,CAAC,cAAc,CAAS;gBAEnB,MAAM,EAAE,MAAM,EAAE,cAAc,EAAE,MAAM;IAKlD,QAAQ,IAAI,OAAO;IAInB,eAAe,IAAI,MAAM;IAKzB,GAAG,IAAI,IAAI;CAYZ"}
